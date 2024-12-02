@@ -1,0 +1,17 @@
+C:\Users\LAPTOP\source\repos\Clothing Management\Clothing Management\bin\Debug\Clothing Management.exe
+C:\Users\LAPTOP\source\repos\Clothing Management\Clothing Management\bin\Debug\Clothing Management.exe.config
+C:\Users\LAPTOP\source\repos\Clothing Management\Clothing Management\obj\Debug\Clothing Management.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\source\repos\Clothing Management\Clothing Management\obj\Debug\Clothing_Management.Form0.resources
+C:\Users\LAPTOP\source\repos\Clothing Management\Clothing Management\obj\Debug\Clothing_Management.Form1.resources
+C:\Users\LAPTOP\source\repos\Clothing Management\Clothing Management\obj\Debug\Clothing_Management.Form2.resources
+C:\Users\LAPTOP\source\repos\Clothing Management\Clothing Management\obj\Debug\Clothing_Management.Form3.resources
+C:\Users\LAPTOP\source\repos\Clothing Management\Clothing Management\obj\Debug\Clothing_Management.FormEmploy.resources
+C:\Users\LAPTOP\source\repos\Clothing Management\Clothing Management\obj\Debug\Clothing_Management.FormProduct.resources
+C:\Users\LAPTOP\source\repos\Clothing Management\Clothing Management\obj\Debug\Clothing_Management.FormStatic.resources
+C:\Users\LAPTOP\source\repos\Clothing Management\Clothing Management\obj\Debug\Clothing_Management.FormUserscs.resources
+C:\Users\LAPTOP\source\repos\Clothing Management\Clothing Management\obj\Debug\Clothing_Management.Properties.Resources.resources
+C:\Users\LAPTOP\source\repos\Clothing Management\Clothing Management\obj\Debug\Clothing Management.csproj.GenerateResource.cache
+C:\Users\LAPTOP\source\repos\Clothing Management\Clothing Management\obj\Debug\Clothing Management.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\Clothing Management\Clothing Management\obj\Debug\Clothing Management.exe
+C:\Users\LAPTOP\source\repos\Clothing Management\Clothing Management\obj\Debug\Clothing Management.pdb
+C:\Users\LAPTOP\source\repos\Clothing Management\Clothing Management\bin\Debug\Clothing Management.pdb
