@@ -1,0 +1,8 @@
+SELECT TOP (1000) [ProductID]
+      ,[ProductName]
+      ,[ProductImage]
+      ,[SizeProduct]
+      ,[InputPrice]
+      ,[InventoryPrice]
+      ,[SellingPrice]
+  FROM [ASM2@].[dbo].[Products]
